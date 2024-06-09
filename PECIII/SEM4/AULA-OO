@@ -1,0 +1,15 @@
+Lógica ligada, bora codar, um byte de cada vez
+
+ORIENTAÇÃO A OBJETOS
+A orientação a objetos tem sua origem nos anos 60 na Noruega, com Kristen Nygaard e Ole-Johan Dahl, no Centro Norueguês de Computação. Através da linguagem Simula 67, foram introduzidos os conceitos de classe e herança.
+
+A orientação a objetos foi mais bem conceituada no laboratório da Xerox, em Palo Alto, sendo refinada numa seqüência de protótipos da linguagem Smalltalk. O líder desse projeto foi Alan Curtis Kay, considerado um dos criadores do termo “programação orientada a objetos”.
+
+Alan Kay começou a programar em Simula depois de conhecer um inovador programa chamado Sketchpad. Sketchpad foi um editor gráfico desenvolvido por Ivan Sutherland, no MIT, em 1963. É considerado um marco na informática, sendo o primeiro editor gráfico orientado a objetos. Era possível colocar bits coloridos no canvas, mas também criar objetos que poderiam ser manipulados distintamente uns dos outros. O Sketchpad permitia que fosse definido um “master drawing“, a partir do qual seriam criadas “instance drawing” (herança).
+
+Este paradigma tão utilizado atualmente surgiu na tentativa de solucionar problemas existentes no desenvolvimento softwares complexos e confiáveis com baixo custo de desenvolvimento e manutenção. A necessidade da época demandava por uma solução de nível de abstração de programação que se aproximasse mais do mundo real, com modelos e conceitos representativos. Chegou-se então à conclusão (ou abstração) de que o mundo real é formado por objetos que interagem entre si.
+
+Outra conclusão importante que justifica o uso do paradigma da orientação a objetos é que representar esses objetos em um software é mais natural e permanente do que representar a sua funcionalidade (decomposição funcional), pois esta é mutável.
+
+Logo, conclui-se que, se as abstrações não tiverem uma expressão direta (ou próxima) do mundo computacional, a complexidade da solução seria aumentada e não teriamos a nossa tão conhecida facilidade de desenvolvimento e manutenção em linguagens de alto nível (como Java ou .NET, por exemplo).
+
